@@ -123,46 +123,6 @@
             border: 0.5px solid #8E7754;
         }
 /*end section2*/
-
-/*section3*/
-/*
-.section3{
-    background-color: #f4f4f4;
-}
-
-.text{
-    margin: 40px;
-    flex: 1;
-    box-sizing: border-box;
-
-}
-.text h2{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   font-size: 30px;
-    margin: 25px;
-   
-}
-.text p{
-    margin: 30px;
-    font-size: 22px;
-    font-family: Georgia, Times, 'Times New Roman', serif;
-   color: #686868;
-}
-
-.pic2{
-         padding:30px ;
-        flex: 1;
-        box-sizing: border-box;
-       }
-    
-    .pic2 img{
-        height: auto;
-        width: 100%;
-    
-    }
-        */
-   /*end section3*/
-
 /*section4*/
     .titled {
         text-align: center;
